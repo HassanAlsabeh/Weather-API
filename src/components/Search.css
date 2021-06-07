@@ -1,3 +1,20 @@
-div {
-    border: 25px solid black;
+button{
+    
+    background-color: #514AAB;
+    justify-content: center;
+    border: none;
+    width: 150px;
+    padding: 15px 30px;
+    margin-left: 100px;
 }
+input[type="text"]{
+    padding:0.9%;
+    margin-left: 50px;
+    font-size: 20px;
+    border:0;
+    font-weight: lighter;
+    background-color: transparent;
+    outline: none;
+  }
+    
+  
