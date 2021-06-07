@@ -19,6 +19,10 @@ body{
 display: flex;
 flex-direction: row;
 text-align: center;
+justify-content: space-between;
+}
+.main-1 span{
+    font-size: 1.3em;
 }
 .main-display{
     text-align: center;
@@ -55,7 +59,7 @@ text-align: center;
 }
 .main-1-1{
     display: flex;
-    justify-content: space-between;
+    
 }
 .logo{
     margin: 40px 0 40px 0;
