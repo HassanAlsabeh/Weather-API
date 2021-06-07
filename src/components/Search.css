@@ -1,11 +1,12 @@
 button{
     
-    background-color: #514AAB;
+    background-color: #5879c7;
     justify-content: center;
     border: none;
-    width: 150px;
+    width: 200px;
     padding: 15px 30px;
-    margin-left: 100px;
+    margin-left: 20px;
+    font-size: 1em;
 }
 input[type="text"]{
     padding:0.9%;
@@ -15,6 +16,7 @@ input[type="text"]{
     font-weight: lighter;
     background-color: transparent;
     outline: none;
+    color: white;
   }
     
   

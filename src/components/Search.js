@@ -13,7 +13,7 @@ class Search extends React.Component {
        
         <input
           type="text"
-          id="input-name" placeholder="City"
+          id="input-name" placeholder="City" 
           onChange={event => {
             this.setState({ input: event.target.value });
           }}

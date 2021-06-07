@@ -10,7 +10,7 @@ body{
 }
 .search{
     background-color: #759eda;
-    padding: 20px ;
+    padding: 5px 0 25px 0 ;
     margin-bottom: 80px;
     
 }
@@ -30,7 +30,7 @@ text-align: center;
 }
 .main-display p{
     color: white;
-    margin-left: 20px;
+    margin-left: 0px;
     margin-bottom: 35px;
 }
 .main-display span{
