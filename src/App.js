@@ -1,13 +1,10 @@
 import React, { Component } from "react";
 import Search from "./components/Search";
-
-import partlycloudy from "./img/weather-icons/partlycloudy.svg"
-import SayHi, { SayHello } from "./components/WeatherItem";
-import fakeWeatherData from "./fakeWeatherData.json";
+import fakeWeatherData from "./data/FakeWeather.json";
 
 import "./App.css";
 import CurrentWeather from "./components/CurrentWeather";
-import Upcomings from "./components/Upcomings";
+import Upcoming from "./components/Upcoming";
 
 class App extends Component {
   constructor(props) {
@@ -30,7 +27,7 @@ class App extends Component {
             </div>
            <div>
              <CurrentWeather/>
-             <Upcomings/>
+             <Upcoming/>
            </div>
             
         </div>

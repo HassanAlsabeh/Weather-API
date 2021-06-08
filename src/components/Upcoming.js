@@ -7,7 +7,7 @@ import "../App.css";
 
 
 
-class Upcomings extends React.Component {
+class Upcoming extends React.Component {
     render(){
         return(
 
@@ -65,4 +65,4 @@ class Upcomings extends React.Component {
         )
     }
 }
-export default Upcomings
+export default Upcoming
